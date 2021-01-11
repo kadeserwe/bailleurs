@@ -9,7 +9,7 @@ import javax.validation.constraints.*;
 import java.io.Serializable;
 
 /**
- * A Bailleurs.
+ * A Bailleurs. ok
  */
 @Entity
 @Table(name = "bailleurs")
